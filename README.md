@@ -254,4 +254,4 @@ MIT — free to use and modify.
 
 ---
 
-*RWB 911 Interactive Platform — Crafted by Eli Henry*
+*RWB 911 Interactive Platform — Crafted by Eniola Henry*
