@@ -1,6 +1,6 @@
 # 🚗 RWB 911 — Interactive 3D Platform
 
-**Crafted by Eli Henry**
+**Crafted by Eniola Henry**
 
 A production-grade, modular 3D car configurator and viewer built on Three.js with a full ECS architecture, GPU aerodynamics simulation, and six interactive experience modes.
 
